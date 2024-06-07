@@ -1,1 +1,38 @@
-This is just a test of my plain text file.
+PRIMM Activity: Counting Candy with Python FOR Loops
+Scenario: You and your friend went trick-or-treating and got a huge bag of candy on Halloween! 
+Let's write some Python code to help us figure out how much candy each person gets.
+
+
+Check out the following code snippet:
+
+candy_list = ["Snickers", "Twix", "M&M's", "Starburst", "Lollipop"]
+total_candy = 0
+
+for candy in candy_list:
+    # What will happen inside this for loop?
+
+********** PREDICT **********
+
+1. Write down your prediction of what the code will output (display).  How many candies will it count?
+
+
+
+********** RUN **********
+
+1. Run your starter script in VS Code and see what happens.  Did your prediction match the actual output (results)?
+
+
+********** INVESTIGATE **********
+
+1. Let's break down the code. What does the line for candy in candy_list: do?
+
+
+2. What happens inside the loop (the indented block) each time the loop runs (loops)?
+
+
+3. Explain what the variable total_candy is used for in the loop.
+
+
+
+
+
