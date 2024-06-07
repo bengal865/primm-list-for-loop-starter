@@ -11,6 +11,9 @@ total_candy = 0
 for candy in candy_list:
     # What will happen inside this for loop?
 
+
+
+
 ********** PREDICT **********
 
 1. Write down your prediction of what the code will output (display).  How many candies will it count?
