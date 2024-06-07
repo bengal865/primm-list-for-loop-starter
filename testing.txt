@@ -5,7 +5,7 @@ Let's write some Python code to help us figure out how much candy each person ge
 
 Check out the following code snippet:
 
-candy_list = ["Snickers", "Twix", "M&M's", "Starburst", "Lollipop"]
+candy_list = ["Snickers", "Twix", "Butterfinger", "Starburst", "Gummi Bears"]
 total_candy = 0
 
 for candy in candy_list:
