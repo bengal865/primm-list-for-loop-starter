@@ -33,7 +33,7 @@ for candy in candy_list:
 2. What happens inside the loop (the indented block) each time the loop runs (loops)?
 
 
-3. Explain what the variable total_candy is used for in the loop.
+3. Explain in a sentence or two what the variable total_candy is used for in the loop.
 
 
 
