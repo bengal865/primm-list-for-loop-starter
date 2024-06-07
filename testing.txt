@@ -1,4 +1,5 @@
 PRIMM Activity: Counting Candy with Python FOR Loops
+
 Scenario: You and your friend went trick-or-treating and got a huge bag of candy on Halloween! 
 Let's write some Python code to help us figure out how much candy each person gets.
 
