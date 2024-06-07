@@ -22,7 +22,7 @@ for candy in candy_list:
 
 ********** RUN **********
 
-1. Run your starter script in VS Code and see what happens.  Did your prediction match the actual output (results)?
+1. Run your starter script in VS Code and see what happens.  Did your prediction match the actual output (results)?  Why or why not?
 
 
 ********** INVESTIGATE **********
